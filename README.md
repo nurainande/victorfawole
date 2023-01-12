@@ -1,3 +1,1 @@
-"# first-project" 
-"# johnFawole" 
 "# johnFawole" 
