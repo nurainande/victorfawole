@@ -16,7 +16,7 @@
 }
 
 :root{
-    --main-color: #7879f1;
+    --main-color: #9000ff;
     --comp-color: #b8bcf3;
     --white-color: #fff;
     --black-color: black;
@@ -361,6 +361,7 @@ header{
   border: 1px solid var(--main-color);
   padding: 1rem;
   border-radius: .5rem;
+  text-transform: none;
 }
 
 textarea{
@@ -370,6 +371,7 @@ textarea{
   border: 1px solid var(--main-color);
   border-radius: .5rem;
   padding: 1rem;
+  text-transform: none;
 
 }
 
